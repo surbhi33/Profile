@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://surbhi-prasad.medium.com/](https://surbhi-prasad.medium.com/)
 
-- 💬 Ask me about **SQL,ML**
+- 💬 Ask me about **SQL,ML,Recommendation**
 
 - 📫 How to reach me **surbhi.prasad@gmail.com**
 
